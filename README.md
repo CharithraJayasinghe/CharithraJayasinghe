@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharithraJayasinghe
-- 👀 I’m Fullstack development
+- 👀 I’m a software developer
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on software projects
 - 📫 https://portfolio-website-nine-fawn-41.vercel.app/
 
 <!---
